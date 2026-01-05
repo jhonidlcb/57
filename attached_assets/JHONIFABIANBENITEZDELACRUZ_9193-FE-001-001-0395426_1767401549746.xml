@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rDE xmlns="http://ekuatia.set.gov.py/sifen/xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ekuatia.set.gov.py/sifen/xsd siRecepDE_v150.xsd">
+  <dVerFor>150</dVerFor>
+  <DE Id="01042200580001001039542612026010317400453310">
+    <dDVId>0</dDVId>
+    <dFecFirma>2026-01-02T21:34:13</dFecFirma>
+    <dSisFact>1</dSisFact>
+    <gOpeDE>
+      <iTipEmi>1</iTipEmi>
+      <dDesTipEmi>Normal</dDesTipEmi>
+      <dCodSeg>740045331</dCodSeg>
+    </gOpeDE>
+    <gTimb>
+      <iTiDE>1</iTiDE>
+      <dDesTiDE>Factura electrónica</dDesTiDE>
+      <dNumTim>18398622</dNumTim>
+      <dEst>001</dEst>
+      <dPunExp>001</dPunExp>
+      <dNumDoc>0395426</dNumDoc>
+      <dFeIniT>2025-10-24</dFeIniT>
+    </gTimb>
+    <gDatGralOpe>
+      <dFeEmiDE>2026-01-03T00:34:13</dFeEmiDE>
+      <gOpeCom>
+        <iTipTra>2</iTipTra>
+        <dDesTipTra>Prestación de servicios</dDesTipTra>
+        <iTImp>2</iTImp>
+        <dDesTImp>ISC</dDesTImp>
+        <cMoneOpe>PYG</cMoneOpe>
+        <dDesMoneOpe>Guarani</dDesMoneOpe>
+      </gOpeCom>
+      <gEmis>
+        <dRucEm>4220058</dRucEm>
+        <dDVEmi>0</dDVEmi>
+        <iTipCont>1</iTipCont>
+        <cTipReg>8</cTipReg>
+        <dNomEmi>DE generado en ambiente de prueba - sin valor comercial ni fiscal</dNomEmi>
+        <dNomFanEmi>SOFTWARE PAR</dNomFanEmi>
+        <dDirEmi>Barrio Residencial</dDirEmi>
+        <dNumCas>0</dNumCas>
+        <cDepEmi>8</cDepEmi>
+        <dDesDepEmi>ITAPUA</dDesDepEmi>
+        <cDisEmi>107</cDisEmi>
+        <dDesDisEmi>CARLOS A. LOPEZ</dDesDisEmi>
+        <cCiuEmi>1456</cCiuEmi>
+        <dDesCiuEmi>CARLOS A. LOPEZ</dDesCiuEmi>
+        <dTelEmi>0985990046</dTelEmi>
+        <dEmailE>softwarepar.jhoni@gmail.com</dEmailE>
+        <dDenSuc>Sucursal 1</dDenSuc>
+        <gActEco>
+          <cActEco>62090</cActEco>
+          <dDesActEco>Otras actividades de tecnología de la información y servicios informáticos</dDesActEco>
+        </gActEco>
+        <gRespDE>
+          <iTipIDRespDE>1</iTipIDRespDE>
+          <dDTipIDRespDE>Cédula paraguaya</dDTipIDRespDE>
+          <dNumIDRespDE>4220058</dNumIDRespDE>
+          <dNomRespDE>BENITEZ DE LA CRUZ JHONI FABIAN</dNomRespDE>
+          <dCarRespDE>Propietario</dCarRespDE>
+        </gRespDE>
+      </gEmis>
+      <gDatRec>
+        <iNatRec>1</iNatRec>
+        <iTiOpe>1</iTiOpe>
+        <cPaisRec>PRY</cPaisRec>
+        <dDesPaisRe>Paraguay</dDesPaisRe>
+        <iTiContRec>1</iTiContRec>
+        <dRucRec>4220058</dRucRec>
+        <dDVRec>0</dDVRec>
+        <dNomRec>BENITEZ DE LA CRUZ JHONI FABIAN</dNomRec>
+        <dDirRec>Barrio Residencial</dDirRec>
+        <dNumCasRec>0</dNumCasRec>
+        <cDepRec>8</cDepRec>
+        <dDesDepRec>ITAPUA</dDesDepRec>
+        <cDisRec>107</cDisRec>
+        <dDesDisRec>CARLOS A. LOPEZ</dDesDisRec>
+        <cCiuRec>1456</cCiuRec>
+        <dDesCiuRec>CARLOS A. LOPEZ</dDesCiuRec>
+      </gDatRec>
+    </gDatGralOpe>
+    <gDtipDE>
+      <gCamFE>
+        <iIndPres>1</iIndPres>
+        <dDesIndPres>Operación presencial</dDesIndPres>
+      </gCamFE>
+      <gCamCond>
+        <iCondOpe>1</iCondOpe>
+        <dDCondOpe>Contado</dDCondOpe>
+        <gPaConEIni>
+          <iTiPago>1</iTiPago>
+          <dDesTiPag>Efectivo</dDesTiPag>
+          <dMonTiPag>110000.0000</dMonTiPag>
+          <cMoneTiPag>PYG</cMoneTiPag>
+          <dDMoneTiPag>Guarani</dDMoneTiPag>
+        </gPaConEIni>
+      </gCamCond>
+      <gCamItem>
+        <dCodInt/>
+        <dDesProSer>PRUEBA TECNICA EXENTA</dDesProSer>
+        <cUniMed>77</cUniMed>
+        <dDesUniMed>UNI</dDesUniMed>
+        <dCantProSer>1</dCantProSer>
+        <gValorItem>
+          <dPUniProSer>110000</dPUniProSer>
+          <dTotBruOpeItem>110000</dTotBruOpeItem>
+          <gValorRestaItem>
+            <dDescItem>0</dDescItem>
+            <dDescGloItem>0</dDescGloItem>
+            <dAntPreUniIt>0</dAntPreUniIt>
+            <dAntGloPreUniIt>0</dAntGloPreUniIt>
+          </gValorRestaItem>
+        </gValorItem>
+      </gCamItem>
+    </gDtipDE>
+    <gTotSub>
+      <dSubExe>0</dSubExe>
+      <dSubExo>0</dSubExo>
+      <dTotOpe>0</dTotOpe>
+      <dTotDesc>0</dTotDesc>
+      <dTotDescGlotem>0</dTotDescGlotem>
+      <dTotAntItem>0</dTotAntItem>
+      <dTotAnt>0</dTotAnt>
+      <dPorcDescTotal>0</dPorcDescTotal>
+      <dDescTotal>0</dDescTotal>
+      <dAnticipo>0</dAnticipo>
+      <dRedon>0</dRedon>
+      <dTotGralOpe>0</dTotGralOpe>
+    </gTotSub>
+  </DE>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+      <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/>
+      <Reference URI="#01042200580001001039542612026010317400453310">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+          <Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+        <DigestValue>mn9eelZX/tfG1O+2LQpX0q19z56IYsh33NIPdna60Po=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>Z4Z17x9ocHOk3L8A4WKq14zEX2Yltpg3j4jMQlIL6W3iUbdFa2M1U4qaVIMGg6vpO+Ocwf4wztdV&#xD;
+t0VZYqmWY8MbCG7OrzsxuP7lWCn4HtQ3j9llmG7BVu2cvnAeS98ccLe2Pjv6qzpBQlfCRHmyu5/L&#xD;
+gTAlszyKvx0FVf7o/ugdY0Brymw/klWHRGXDZpGktnN0y8TtrFacm5J4p6vpjXvP5Fqi1qeHiW8e&#xD;
+3i6yya2NSDjLNhJKM6hshP+AGqji266azFvDXD6Hj63tNkhk2FElIfXcMS6tbCKnu8vg4x92CQGk&#xD;
+ORvug8PRKvGhCZrNnI1GBhvBL6JQEhl3nUgLPw==</SignatureValue>
+    <KeyInfo>
+      <X509Data>
+        <X509Certificate>MIIDbDCCAlSgAwIBAgIEYYrC+zANBgkqhkiG9w0BAQsFADB4MQswCQYDVQQGEwJQWTEUMBIGA1UE&#xD;
+CAwLQUxUTyBQQVJBTkExGDAWBgNVBAcMD0NJVURBRCBERUwgRVNURTEQMA4GA1UECgwHVElQUyBT&#xD;
+QTETMBEGA1UECwwKREVTQVJST0xMTzESMBAGA1UEAwwJRkFDVFVSQVBJMB4XDTIxMTEwOTE4NTAz&#xD;
+NVoXDTIyMTEwOTE4NTAzNVoweDELMAkGA1UEBhMCUFkxFDASBgNVBAgMC0FMVE8gUEFSQU5BMRgw&#xD;
+FgYDVQQHDA9DSVVEQUQgREVMIEVTVEUxEDAOBgNVBAoMB1RJUFMgU0ExEzARBgNVBAsMCkRFU0FS&#xD;
+Uk9MTE8xEjAQBgNVBAMMCUZBQ1RVUkFQSTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB&#xD;
+AMWUwZD/I4iNtm2XVy0BGYBQJ0GGRRTzmdwSJGgCXMYPnLhPpQMMy6gdFsIpPW8fHCa1jhsVuRCp&#xD;
+jLbGGuqpBCLIVOHJxWb2mppJIa8fsTJBdgOz84vvqBWWMGmfb3HYx/s59GmsQIMnJ1vMW3x6LOjV&#xD;
+1m5HiXcJqgOh6fGlfex7EJ8QhB7CHJj5cbrQVj5e3rh7J2uXEeY8QBAG8+zaMKgGNxMmuirzhRWg&#xD;
+n+z9QN6pDh0RYjBO/uikgTccLpQdxlnYkK3i/eaKNdhrWEjBM/zrpH9FH7JqJNZgsk4kpZAS5g9M&#xD;
+HbfjLGE4BmskFYwFmhljJEeRiiFjVElVFsvlCT8CAwEAATANBgkqhkiG9w0BAQsFAAOCAQEAZMTd&#xD;
+URV42xA4kOApodsNP5psahbiO0T5674fXbZUYt/k4qLszScQvTTrtZkAmbs1UIHu06W4QNffrBOj&#xD;
+SwbMuNX096BEiQ1SKTdWBBM41qkb0r7TL3aYchfXjJvTsp4l2pnXF0hJ+hiDwBp0sa/qEi+TP7mp&#xD;
+B8BbDtr2IbwyQVqyEgdmNfF/Fz81lwQV/N94H/31Mx2OW7b9ULiHHi6IAxf2HIjVLZYHat3Y4Wm5&#xD;
+bLbsKDubW0DsWuWXh3L1myGIFJqGEvoP4cwz+o/su5cPaLewBIzsKFQoZVJygQN1zv0W2Ve73nln&#xD;
+aIbxrFb8w/kXeZeYWeMYotIAZk9VhtheoQ==</X509Certificate>
+      </X509Data>
+    </KeyInfo>
+  </Signature>
+  <gCamFuFD>
+    <dCarQR>https://ekuatia.set.gov.py/consultas-test/qr?nVersion=150&amp;Id=01042200580001001039542612026010317400453310&amp;dFeEmiDE=323032362d30312d30335430303a33343a3133&amp;dRucRec=4220058&amp;dTotGralOpe=0&amp;dTotIVA=0&amp;cItems=1&amp;DigestValue=6d6e3965656c5a582f746647314f2b324c517058307131397a35364959736833334e4950646e613630506f3d&amp;IdCSC=0001&amp;cHashQR=3251a4e6d91dec14b2e51ee4188320c3dfbfe280946e6618f17a45dfe3aff122</dCarQR>
+  </gCamFuFD>
+</rDE>
